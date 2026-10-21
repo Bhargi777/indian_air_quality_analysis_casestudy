@@ -2,6 +2,8 @@
 
 An air quality case study using Indian city and monitoring-station data. The project includes Jupyter notebooks for preprocessing, exploratory analysis, statistical tests, and next-day AQI regression, plus a Streamlit dashboard backed by SQLite for interactive exploration and visualization.
 
+**Live dashboard:** [Indian Air Quality Dashboard](https://indianairquality-team-12.streamlit.app/)
+
 ## What is included
 
 - `Air_Quality_Complete_Case_Study.ipynb` - complete analysis, hypothesis tests, Linear Regression model, evaluation, and export steps.
