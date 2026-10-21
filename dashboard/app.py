@@ -11,7 +11,17 @@ st.set_page_config(page_title="Indian Air Quality Explorer", page_icon="🌫️"
 st.markdown("""
 <style>
 .block-container {padding-top: 1.7rem; padding-bottom: 2rem;}
-[data-testid="stMetric"] {background: #f4f7fb; padding: 0.8rem 1rem; border-radius: 0.55rem;}
+[data-testid="stMetric"] {
+    background: #1c2430;
+    color: #f4f7fb;
+    padding: 0.8rem 1rem;
+    border: 1px solid #344154;
+    border-radius: 0.55rem;
+}
+[data-testid="stMetricLabel"], [data-testid="stMetricLabel"] p,
+[data-testid="stMetricValue"], [data-testid="stMetricDelta"] {
+    color: #f4f7fb !important;
+}
 </style>
 """, unsafe_allow_html=True)
 
