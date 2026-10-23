@@ -12,15 +12,15 @@ This split assigns connected material to each presenter while balancing the work
 
 ## Presenter 2 - Pollutants, seasonality, and geographic patterns
 
-**Notebook material:** Remaining EDA (B5-B9), Q4-Q8, Q14, and the descriptive comparisons that support those questions.
+**Notebook material:** Remaining EDA (B5-B9), Q4-Q8, Q14, Q16-Q17, and the descriptive comparisons that support those questions.
 
-**Explain:** City and region differences; time trends; station/state views; how pollutant measurements relate to AQI and to one another; fine-particle share; seasonal patterns; and whether year-to-year trends persist when city composition is considered. Point to each question's chart/table and say what the visual supports and what it cannot establish.
+**Explain:** City and region differences; time trends; station/state views; how pollutant measurements relate to AQI and to one another; fine-particle share; seasonal patterns; whether year-to-year trends persist when city composition is considered; and the weekday/weekend AQI comparison (Q16) and winter/summer comparison (Q17). Explain the paired city summaries, hypotheses, t-test results, plots, and the small size of the weekday/weekend difference. Point to each question's chart/table and say what the visual supports and what it cannot establish.
 
 **Core takeaway:** Air quality varies by place, time, and pollutant. Distinguish descriptive patterns from explanations or causal claims.
 
 ## Presenter 3 - Events, reliability, and hypothesis tests
 
-**Notebook material:** Q9-Q11; Part 3 statistical tests; Q16-Q17 and Q20.
+**Notebook material:** Q9-Q11, including Q10's Diwali event-window test; and the Part 3 statistical tests.
 
 **Explain:** The lockdown comparison and its limits; the Diwali event-window question; and how station-level variation can be hidden by city averages. Then explain the paired winter-versus-monsoon t-test, the city-level A/B-style lockdown comparison, and the one-sided city-level Diwali test: hypotheses, unit of analysis, why the test was selected, p-value/confidence interval, multiple-testing adjustment where reported, decision, and limits. Make clear that observational comparisons do not prove causality.
 
